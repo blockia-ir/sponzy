@@ -3,7 +3,7 @@ speaker and entertainer bot
 
 It is a simple and fast source made with php language for the development of a fun and talking Telegram bot with the best features and an excellent management panel in Farsi language.
 
-- <h2>[Developer](https://t.me/virtualdev)</h2>	
+- [Developer](https://t.me/virtualdev)
 
 
 # bot token
