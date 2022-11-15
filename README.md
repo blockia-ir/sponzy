@@ -1,5 +1,5 @@
 # sponzy
-speaker and entertainer bot
+ready to answer and entertainer bot
 
 It is a simple and fast source made with php language for the development of a fun and talking Telegram bot with the best features and an excellent management panel in Farsi language.
 
