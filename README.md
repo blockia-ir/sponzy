@@ -31,13 +31,13 @@ $channel = "sponzy_ir"; // یوزرنیم چنل بدون @
 </pre>
 
 # bot spam time
-If someone spams your bot, it will be blocked
+If someone spams your bot, it will be blocked ( line 106 )
 <pre>
 $spamtime = 0.09; // تایم اسپم پشت سرهم
 </pre>
 
 # support usename
-username of the robot support person
+username of the robot support person ( line 402 )
 <pre>
 [['text'=>"️🗨 پشتیبانی 🗨",'url'=>"t.me/virtualdev"]], // آیدی پشتیبانی
 </pre>
